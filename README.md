@@ -43,10 +43,6 @@ Institute of Electronics, ECE College
 6. Graphs
 7. Sorting
 8. Hashing
-9. Priority Queues
-10. Efficient Binary Search Trees
-11. Multiway Search Trees
-12. Digital Search Structures
 
 
 ## Grading Policy
@@ -62,7 +58,7 @@ Institute of Electronics, ECE College
   - **Location:** 新竹電機系館  
 
 
-## Class Schedule (Tentative)
+## Class Schedule
 | Week | Date | Topic              |
 |------|------|--------------------|
 | 1    | 9/12 | Syllabus           |
