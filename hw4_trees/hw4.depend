@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668774901 source:c:\users\chunw\desktop\nycu\111 fall semester\data structure\code blocks\hw4\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

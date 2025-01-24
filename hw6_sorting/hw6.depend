@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1671203983 source:c:\users\chunw\desktop\nycu\111 fall semester\data structure\code blocks\hw6\main.cpp
+	<iostream>
+	<fstream>
+	<list>
+	<sstream>
+	<queue>
+	<climits>
+

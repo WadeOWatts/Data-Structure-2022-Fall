@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1666628077 source:c:\users\chunw\desktop\nycu\111 fall semester\data structure\code blocks\hw2\main.cpp
+	<iostream>
+	<stack>
+	<fstream>
+	<vector>
+

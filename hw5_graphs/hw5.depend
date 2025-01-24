@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1670855740 source:c:\users\chunw\desktop\nycu\111 fall semester\data structure\code blocks\hw5\main.cpp
+	<iostream>
+	<stack>
+	<string>
+	<fstream>
+	<vector>
+
